@@ -6,4 +6,6 @@
 - [x] NV21: YYYYYYYY VUVU - YUV420SP
 
 
-
+	- CvtUtil.NV21ToI420(data, w, h);
+	- CvtUtil.NV21ToYV12(data, w, h);
+	- CvtUtil.NV21ToNV12(data, w, h);
