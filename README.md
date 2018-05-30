@@ -21,5 +21,6 @@ https://github.com/lemenkov/libyuv
 https://github.com/CyberAgent/android-gpuimage  
 
 https://github.com/BelledonneCommunications/linphone-android  
+https://github.com/cisco/openh264
 
 https://github.com/square/okhttp  
