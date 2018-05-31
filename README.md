@@ -5,8 +5,9 @@ https://github.com/tensorflow/models
 https://github.com/keras-team/keras  
 https://github.com/pytorch/pytorch  
 
-https://github.com/Microsoft/LightGBM  
 https://github.com/dmlc/xgboost  
+https://github.com/Microsoft/LightGBM  
+https://github.com/Microsoft/MMdnn  
 
 https://github.com/aleju/imgaug  
 
