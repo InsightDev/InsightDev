@@ -16,6 +16,7 @@ https://github.com/Tencent/FeatherCNN
 
 https://github.com/opencv/opencv  
 https://github.com/opencv/opencv_contrib  
+https://github.com/zxing/zxing  
 
 https://github.com/lemenkov/libyuv  
 
