@@ -13,6 +13,7 @@ https://github.com/aleju/imgaug
 
 https://github.com/Tencent/ncnn  
 https://github.com/Tencent/FeatherCNN  
+https://github.com/google/protobuf  
 
 https://github.com/opencv/opencv  
 https://github.com/opencv/opencv_contrib  
