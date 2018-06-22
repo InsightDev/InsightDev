@@ -29,4 +29,5 @@ https://github.com/cisco/openh264
 
 https://github.com/square/okhttp  
 https://github.com/square/okio  
+https://github.com/square/leakcanary  
 
