@@ -26,6 +26,8 @@ https://github.com/zxing/zxing
 
 https://github.com/CyberAgent/android-gpuimage  
 https://github.com/google/grafika  
+https://github.com/sunfusheng/DroidVR  
+https://github.com/ashqal/MD360Player4Android  
 
 https://github.com/lemenkov/libyuv  
 
@@ -36,9 +38,6 @@ https://github.com/ossrs/srs
 https://github.com/square/okhttp  
 https://github.com/square/okio  
 https://github.com/square/leakcanary  
-
-https://github.com/sunfusheng/DroidVR  
-https://github.com/ashqal/MD360Player4Android  
 
 https://github.com/backup/backup  
 
