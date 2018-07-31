@@ -26,8 +26,6 @@ https://github.com/zxing/zxing
 
 https://github.com/CyberAgent/android-gpuimage  
 https://github.com/google/grafika  
-https://github.com/sunfusheng/DroidVR  
-https://github.com/ashqal/MD360Player4Android  
 
 https://github.com/lemenkov/libyuv  
 
