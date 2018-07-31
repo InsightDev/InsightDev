@@ -18,6 +18,7 @@ https://github.com/XiaoMi/mace
 https://github.com/rexbu/libGPU  
 https://github.com/rexbu/libGDL  
 https://github.com/OAID/Tengine  
+https://github.com/projectNe10/Ne10  
 
 https://github.com/opencv/opencv  
 https://github.com/opencv/opencv_contrib  
@@ -35,6 +36,9 @@ https://github.com/ossrs/srs
 https://github.com/square/okhttp  
 https://github.com/square/okio  
 https://github.com/square/leakcanary  
+
+https://github.com/sunfusheng/DroidVR  
+https://github.com/ashqal/MD360Player4Android  
 
 https://github.com/backup/backup  
 
