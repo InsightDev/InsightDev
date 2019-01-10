@@ -3,9 +3,11 @@
 https://github.com/tensorflow/tensorflow  
 https://github.com/tensorflow/models  
 https://github.com/keras-team/keras  
+https://github.com/keras-team/keras-contrib  
 https://github.com/keras-team/keras-applications  
 https://github.com/keras-team/keras-preprocessing  
 https://github.com/pytorch/pytorch  
+https://github.com/Cadene/pretrained-models.pytorch  
 
 https://github.com/dmlc/xgboost  
 https://github.com/Microsoft/LightGBM  
